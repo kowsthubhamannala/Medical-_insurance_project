@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kowsthubha2001/Downloads/medical_insurance_project/mlruns/0/29db458357f04feeb6bea503fe908218/artifacts
+end_time: 1752253405293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29db458357f04feeb6bea503fe908218
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752253399148
+status: 3
+tags: []
+user_id: kowsthubha2001

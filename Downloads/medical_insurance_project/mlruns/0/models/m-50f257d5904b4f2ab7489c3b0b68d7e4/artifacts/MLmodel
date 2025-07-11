@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/kowsthubha2001/Downloads/medical_insurance_project/mlruns/0/models/m-50f257d5904b4f2ab7489c3b0b68d7e4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-50f257d5904b4f2ab7489c3b0b68d7e4
+model_size_bytes: 9758991
+model_uuid: m-50f257d5904b4f2ab7489c3b0b68d7e4
+prompts: null
+run_id: 29db458357f04feeb6bea503fe908218
+utc_time_created: '2025-07-11 17:03:20.266925'

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kowsthubha2001/Downloads/medical_insurance_project/mlruns/0/d52d3770f5104b168b8cc04cfc70924c/artifacts
+end_time: 1752253192650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d52d3770f5104b168b8cc04cfc70924c
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752253185989
+status: 3
+tags: []
+user_id: kowsthubha2001

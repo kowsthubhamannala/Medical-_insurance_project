@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/kowsthubha2001/Downloads/medical_insurance_project/mlruns/0/models/m-8b4ca2a586ec451baf26d9daf73dccb1/artifacts
+creation_timestamp: 1752253405625
+experiment_id: '0'
+last_updated_timestamp: 1752253412987
+model_id: m-8b4ca2a586ec451baf26d9daf73dccb1
+model_type: null
+name: model
+source_run_id: c7ce10ab426b4b30805cc4c67ba8c9ac
+status: 2
+status_message: null

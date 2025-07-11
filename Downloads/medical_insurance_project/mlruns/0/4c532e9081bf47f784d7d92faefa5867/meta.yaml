@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kowsthubha2001/Downloads/medical_insurance_project/mlruns/0/4c532e9081bf47f784d7d92faefa5867/artifacts
+end_time: 1752252944281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c532e9081bf47f784d7d92faefa5867
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752252939487
+status: 3
+tags: []
+user_id: kowsthubha2001
